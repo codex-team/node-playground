@@ -1,0 +1,16 @@
+{
+  "name": "codex-nodejs",
+  "version": "1.0.0",
+  "description": "[Node + Express + Socket.io] Application created on CodeX Meetup",
+  "repository" : "https://github.com/codex-team/node-playground",
+  "main": "server.js",
+  "scripts": {
+    "run": "server.js"
+  },
+  "author": "CodeX Team",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.3"
+  }
+}

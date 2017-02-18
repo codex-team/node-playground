@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Node JS playground - CodeX Team</title>
+    <link rel="stylesheet" href="/public/styles.css">
+</head>
+<body>
+
+    <div class="playground" id="playground"></div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/public/client.js"></script>
+
+    <script>
+
+        /**
+        * Now we can use our application
+        */
+
+        var userId    = +new Date(); /** We use current timestamp as user's ID */
+        var userPhoto = window.prompt('Enter your photo\'s URL (or you will be Trump)'); /** Ask user for photo */
+
+        /** Fire 'start' method and pass id and photo */
+        game.start( userId, userPhoto );
+
+    </script>
+</body>
+</html>
