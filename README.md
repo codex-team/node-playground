@@ -42,9 +42,9 @@ https://ifmo.su
 
 ### Follow us!
 
-Teleram: https://t.me/codex_team
-
 VK: https://vk.com/codex_team
+
+Telegram: https://t.me/codex_team
 
 Instagram: https://www.instagram.com/codex_team
 
