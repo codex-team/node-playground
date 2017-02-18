@@ -34,3 +34,19 @@ http://play.ifmo.su/
 ![CodeX node playground](https://ifmo.su/public/img/external/node-playground-screen.png)
 
 
+## About CodeX
+We are small team of Web-developing fans consisting of IFMO students and graduates located in St. Petersburg, Russia.
+Fell free to give us a feedback on <a href="mailto::team@ifmo.su">team@ifmo.su</a>
+
+https://ifmo.su
+
+### Follow us!
+
+Teleram: https://t.me/codex_team
+
+VK: https://vk.com/codex_team
+
+Instagram: https://www.instagram.com/codex_team
+
+
+

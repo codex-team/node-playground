@@ -1,5 +1,5 @@
 /**
-* CoodeX Meetup server-side application
+* CodeX Meetup server-side application
 *
 * @uses express, socket.io
 * @since 17.17.02
@@ -30,7 +30,7 @@ app.get('/', function( request , response ){
 });
 
 /**
-* Route for delivering static files (JS, CSS, images
+* Route for delivering static files (JS, CSS, images)
 * @see http://expressjs.com/en/starter/static-files.html
 */
 app.use('/public', express.static('public'));
@@ -50,7 +50,7 @@ io.on('connection', function( socket ){
     /**
     * 'user moved' message handler
     * @param {object} data passed with emit-event from client-side
-    *                 contains user's {id, photo, x, y}
+    *                      contains user's {id, photo, x, y}
     */
     socket.on('user moved', function( data ){
 
