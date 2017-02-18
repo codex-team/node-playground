@@ -19,7 +19,7 @@ var game = function(){
     /**
     * Web-Sockets client provided via sockets.io
     */
-    var socket = io.connect('http://95.213.200.245:3000');
+    var socket = io.connect();
 
     /**
     * @public
